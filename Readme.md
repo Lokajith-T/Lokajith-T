@@ -2,10 +2,7 @@
 
 🤖 AI/ML Engineer • Generative AI Developer • Full-Stack Developer • AIoT Innovator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;Exploring+Generative+AI+%26+RAG+%F0%9F%A7%A0;Computer+Vision+%26+Deep+Learning+%F0%9F%91%81%EF%B8%8F;AIoT+%26+Embedded+Innovation+%F0%9F%94%8C;YESIST+IEEE+iEngage+Track+Winner+%F0%9F%8F%86" alt="Typing SVG" /><br/>""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/lokajith-t-933b24326/)
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/Lokajith-T)
-""Portfolio" (https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)" (https://YOUR-PORTFOLIO-URL)
-""Email" (https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:YOUR-EMAIL)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;Exploring+Generative+AI+%26+RAG+%F0%9F%A7%A0;Computer+Vision+%26+Deep+Learning+%F0%9F%91%81%EF%B8%8F;AIoT+%26+Embedded+Innovation+%F0%9F%94%8C;YESIST+IEEE+iEngage+Track+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 
 </div>---
 
